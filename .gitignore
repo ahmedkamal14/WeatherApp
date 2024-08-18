@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Tailwind output
+build/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Coverage and cache
+coverage/
+.cache/
+
+# Build files
+build/
