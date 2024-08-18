@@ -1,6 +1,6 @@
 // API Related Data
 const apiKey = "eda8d98890214bab926190059241708";
-const apiUrl = "http://api.weatherapi.com/v1/forecast.json";
+const apiUrl = "https://api.weatherapi.com/v1/forecast.json";
 
 // Get the location of the user
 function getUserLocation() {
